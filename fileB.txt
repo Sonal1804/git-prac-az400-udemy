@@ -1,1 +1,2 @@
-"This is file B (currently the file is in staging area)" 
+"This is file B (currently the file is in staging area)"  Version-1
+
